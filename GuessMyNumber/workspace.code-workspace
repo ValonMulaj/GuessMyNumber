@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../control-03-monster-killer-starting-project"
+		},
+		{
+			"path": "../Valon/rn-first-app"
+		},
+		{
+			"path": "../COURSE ASSIGNMENT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starter"
+	}
+}
